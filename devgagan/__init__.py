@@ -4,7 +4,7 @@ import asyncio
 import logging
 from pyromod import listen
 from pyrogram import Client
-from config import API_ID, API_HASH, BOT_TOKEN
+from config import API_ID, API_HASH, BOT_TOKEN, DEFAULT_SESSION
 from telethon.sync import TelegramClient
 
 
