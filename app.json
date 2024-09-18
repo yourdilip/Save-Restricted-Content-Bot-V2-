@@ -46,6 +46,11 @@
       "value": "log_group_id_here",
       "required": true
     }
+    "DEFAULT_SESSION": {
+      "description": "Enter Pyrogram V2 session ... ",
+      "value": "lPyrogram V2 session string",
+      "required": true
+    }    
   },
   "buildpacks": [
     { "url": "heroku/python" },
