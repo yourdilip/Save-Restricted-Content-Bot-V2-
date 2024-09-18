@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>Save restricted Content Bot master-V1 branch</b> | Summer Release V2
+  <b>V4 branch</b> | Summer Release V2
 </h1>
 
 
@@ -8,7 +8,7 @@ Contact: [Telegram](https://t.me/save_restricted_content_bots)
 ---
 
 ## ABOUT THIS BRANCH
-This branch is purely based on `Pyrogram V2` with more stability
+This branch is purely based on `Pyrogram V2` with more stability and this only applicable when you want your subscriber to use bot without login also in other words you dont want to force login even for public channels
 
 ---
 
