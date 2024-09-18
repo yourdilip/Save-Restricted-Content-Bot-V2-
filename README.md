@@ -11,6 +11,16 @@ Contact: [Telegram](https://t.me/save_restricted_content_bots)
 This branch is purely based on `Pyrogram V2` with more stability and this only applicable when you want your subscriber to use bot without login also in other words you dont want to force login even for public channels
 
 ---
+## Commands
+
+- **`start`**: Launch the application.
+- **`myplan`**: View your personalized plan.
+- **`add`**: Add a new item or entry.
+- **`rem`**: Remove an existing item.
+- **`gcast`**: Broadcast a message or notification.
+- **`stats`**: Display statistics and insights.
+- **`speedtest`**: Run a network speed test.
+- **`settings`**: Access and modify your settings.
 
 ## Features:
 
